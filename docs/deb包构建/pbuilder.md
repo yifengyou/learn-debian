@@ -1,5 +1,10 @@
 # pbuilder
 
+
+![20200111_104416_61](image/20200111_104416_61.png)
+
+![20200111_104611_73](image/20200111_104611_73.png)
+
 ## pbuilder包内容
 
 ```
@@ -62,3 +67,4 @@
 ## 参考
 
 * <https://pbuilder-docs.readthedocs.io/en/latest/>
+* pbuilder、sbuild性能对比：<https://members.loria.fr/LNussbaum/files/fosdem07-auttest.pdf>
